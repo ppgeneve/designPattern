@@ -1,3 +1,5 @@
 # designPattern
 key points of design pattern
-# Design pattern example of <<Head First>>
+# Design pattern example of Head First
+
+
