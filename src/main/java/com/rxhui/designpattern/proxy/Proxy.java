@@ -4,10 +4,13 @@ import java.net.URL;
 
 /**
  * @author ppgeneve
- * @Description:
+ * @Description: 静态代理
  * @Date 2018/6/12 17:06
  */
 interface Image {
+    /**
+     * 显示图片
+     */
     void showImage();
 }
 
